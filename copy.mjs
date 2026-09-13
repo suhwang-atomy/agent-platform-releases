@@ -45,4 +45,5 @@ export const RELEASE_COPY = {
   "release.appleHelp":["Apple 공식 안내 ↗", "Apple guidance ↗"],
   "release.chromeHelp":["Chrome 공식 안내 ↗", "Chrome guidance ↗"],
   "release.windowsHelp":["Windows 공식 안내 ↗", "Windows guidance ↗"],
+  "release.knowledge012":["0.1.2 조직 지식 연결 안내: Google 로그인 후 설정 → 사용자 계정 연결에서 Google 계정의 ‘이 사무실에서 사용 승인’을 눌러 주세요. 로그인만으로는 조직 지식 연결이 완료되지 않습니다. 승인 후 사무실 운영 → 조직 지식에서 ‘로그인한 계정으로 연결’을 눌러 주세요.", "Organization knowledge in 0.1.2: After signing in to Google, go to Settings → User account connections and select “Allow use in this office” for your Google account. Signing in alone does not complete the knowledge connection. Then open Office operations → Organization knowledge and connect using the signed-in account."],
 };
