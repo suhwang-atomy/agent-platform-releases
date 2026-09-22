@@ -25,7 +25,7 @@ export const RELEASE_COPY = {
   'release.history':['전체 릴리스 기록 보기 ↗','View release history ↗'],
   'release.footer':['회사 지식과 사용자 데이터는 이 페이지에 게시하지 않습니다.','Company knowledge and user data are not published on this page.'],
   "release.launchTitle":["설치·첫 실행 가이드", "Installation & first launch"],
-  "release.launchIntro":["현재 Mac은 Apple 서명·공증, Windows는 코드 서명을 준비 중입니다. 서명이나 다운로드 평판이 부족하면 경고가 나타날 수 있지만, 모든 경고가 미서명 때문인 것은 아닙니다. 이 페이지에서 연결한 공식 GitHub 설치 파일인지 먼저 확인하세요.", "Apple signing/notarization and Windows code signing are pending. Missing signatures or download reputation can trigger warnings, but not every warning is caused by signing. First verify that the installer came from the official GitHub release linked on this page."],
+  "release.launchIntro":["Mac 0.1.7 서명 재배포본에는 Developer ID 서명을 적용했습니다. Apple 공증은 심사 중이라 첫 실행이 차단될 수 있습니다. 이미 0.1.7을 설치했다면 새 DMG로 재설치해 서명본을 받을 수 있습니다. Windows 코드 서명은 준비 중입니다. 아래 공식 GitHub 설치 파일을 이용하세요.", "The reissued Mac 0.1.7 installer is Developer ID signed. Apple notarization is pending, so first launch may still be blocked. If you already have 0.1.7, reinstall using the new DMG to receive the signed app. Windows code signing is pending. Use the official GitHub installers linked below."],
   "release.macGuide":["Mac · 앱이 열리지 않을 때", "Mac · When the app cannot be opened"],
   "release.mac1":["DMG를 열고 Atomy Office Agent를 응용 프로그램 폴더에 옮긴 뒤, 앱을 한 번 실행합니다.", "Open the DMG, move Atomy Office Agent to Applications, then try opening it once."],
   "release.mac2":["개발자를 확인할 수 없거나 Apple이 악성 소프트웨어 여부를 확인할 수 없다는 알림이면 ‘완료’를 누릅니다.", "If the alert says the developer cannot be verified or Apple cannot check the app for malware, select Done."],
