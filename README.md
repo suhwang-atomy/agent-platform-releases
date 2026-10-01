@@ -17,3 +17,7 @@ Latest release: 0.1.7 for macOS Apple Silicon and Windows x64. The macOS signing
 Automatic updates are available from 0.1.5 onward. Existing 0.1.7 users must reinstall from the new DMG to receive the signing reissue, because the version has not changed. Application signing/notarization and update signing are separate checks.
 
 Contact: suhwang@atomypark.com
+
+## Beginner manual
+
+[Read the Korean manual](https://suhwang-atomy.github.io/agent-platform-releases/manual/) or [download the PDF](https://suhwang-atomy.github.io/agent-platform-releases/manual/aoa-beginner-manual-ko.pdf). Based on AOA 0.1.8, with 38 PDF pages. Screenshots and example records use a separate demonstration office.

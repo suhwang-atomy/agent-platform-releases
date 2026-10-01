@@ -1,5 +1,11 @@
 // 다운로드 웹과 앱에서 함께 사용하는 한·영 문구.
 export const RELEASE_COPY = {
+  'release.manualEyebrow':['처음 사용자 매뉴얼','BEGINNER MANUAL'],
+  'release.manualTitle':['비서와 첫 업무부터 시작하세요','Start your first task with your secretary'],
+  'release.manualBody':['비서와 잡담하며 업무 맥락을 알려주고, 조직 지식을 연결하고, 자동회의와 반복 업무를 활용하는 방법을 화면과 함께 안내합니다.','An illustrated guide to working with your secretary, sharing work context through conversation, connecting organization knowledge, and using automatic meetings and recurring tasks.'],
+  'release.manualMeta':['한국어 · AOA 0.1.8 기준 · PDF 38쪽','Korean · Based on AOA 0.1.8 · 38-page PDF'],
+  'release.manualWeb':['웹 매뉴얼 읽기','Read manual (Korean)'],
+  'release.manualPdf':['PDF 내려받기','Download PDF (Korean)'],
   'release.getStarted':['시작하기','GET STARTED'],
   'release.releaseNotes':['릴리스 안내','RELEASE NOTES'],
   'release.downloads':['설치 파일','Downloads'],
