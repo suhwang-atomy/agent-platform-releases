@@ -10,11 +10,11 @@ The application source is maintained in a separate private repository. This repo
 
 Windows x64: [Download installer](https://github.com/suhwang-atomy/agent-platform-releases/releases/latest/download/aoa-windows-setup.exe). The installer is not Windows code-signed, so SmartScreen may display a warning.
 
-macOS Apple Silicon: [Download installer](https://github.com/suhwang-atomy/agent-platform-releases/releases/latest/download/aoa-macos-apple-silicon.dmg). The 0.1.9 app and DMG are Developer ID signed and Apple notarized.
+macOS Apple Silicon: [Download installer](https://github.com/suhwang-atomy/agent-platform-releases/releases/latest/download/aoa-macos-apple-silicon.dmg). The 0.1.10 app and DMG are Developer ID signed and Apple notarized.
 
-Latest release: 0.1.9 for macOS Apple Silicon and Windows x64. This release improves draft preservation, scheduling, conversation and result navigation, connection recovery, and keyboard access.
+Latest release: 0.1.10 for macOS Apple Silicon and Windows x64. This release adds an online AI fallback when a local LLM fails, restores the skillsmp skill ranking, and groups OpenRouter models by company with separate ZDR groups.
 
-Automatic updates are available from 0.1.5 onward. The isolated macOS 0.1.8 to 0.1.9 update path was exercised with the signed update archive. Application signing/notarization and update signing are separate checks.
+Automatic updates are available from 0.1.5 onward. Application signing/notarization and update signing are separate checks.
 
 Contact: suhwang@atomypark.com
 
